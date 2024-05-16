@@ -26,3 +26,5 @@ if(msg.operator=="Substraction"){
 }
 console.log(msg)
 
+console.log("Thank You for using this calculator")
+

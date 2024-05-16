@@ -24,3 +24,4 @@ if (msg.operator == "Division") {
     console.log(`Your Answer is ${msg.first / msg.second}`);
 }
 console.log(msg);
+console.log("Thank You for using this calculator");
